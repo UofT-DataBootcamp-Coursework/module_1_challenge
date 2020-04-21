@@ -11,6 +11,9 @@ The goals of this challenge are for you to:
 - Interpret the summary data provided from the visualizations
 
 ### Challenge
+![](images/outcomes_based_on_goals_plays.png)
+
+![](images/outcomes_based_on_launch_dates_theatres.png)
 
 **Conclusions**
 1. 
